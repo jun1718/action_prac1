@@ -12,7 +12,7 @@ public class Prac2Application {
         System.out.println("hihi");
         System.out.println("hihi");
         System.out.println("hihi1");
-        System.out.println("bye22");
+        System.out.println("bye222");
     }
 
 }
